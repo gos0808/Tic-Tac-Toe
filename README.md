@@ -25,9 +25,9 @@ Restart: Click the ‘Start New Game’ button at any point to start a new game.
 # Contact
 Olga: gos08.08.23@gmail.com
 
-Project links:\
-https://github.com/gos0808/Tic-Tac-Toe\       
-https://noughts-crosses-game.netlify.app/
+Project links: \
+https://github.com/gos0808/Tic-Tac-Toe        
+https://noughts-crosses-game.netlify.app
 
 
 # Getting Started with Create React App
